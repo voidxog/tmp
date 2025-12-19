@@ -694,12 +694,6 @@ vendor/lib/vendor.qti.hardware.vpp@1.2.so|5c43141629cf99c648d7a01f0412b5599e3c91
 vendor/lib64/vendor.qti.hardware.vpp@1.1.so|e555e7ccd61ca8456121775d66324ce71666c8be
 vendor/lib64/vendor.qti.hardware.vpp@1.2.so|00d45c3fec03e73946ade43933f452652d8d4f6b
 
-# Mlipay - from lavender QKQ1.190910.002 V12.5.7.0.QFGCNXM
-vendor/bin/mlipayd@1.1|a8cd2b8e51a1e8bd1325847b607f81e4f5600f2f
-vendor/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc|b5ab5bcd031fe4d9781b5911c0595eaeac8b80ea
-vendor/lib64/libmlipay.so|c3589fa6bae9a78c622a768e65eac07ac8da6d9c
-vendor/lib64/libmlipay@1.1.so|d56a1f39930bc44891a22fc5490efe6aa0eb4a2c
-
 # Peripheral - from Zebra/helios/helios:14/14-23-05.00-UG-U05-STD-HEL-04/5:user/release-keys
 vendor/bin/pm-proxy|41df355eb75dfb69b07083a37c3745dd6d084b36
 vendor/bin/pm-service|bf5ca6e5dfd398549bdd563c6e3edea12f4c027a
