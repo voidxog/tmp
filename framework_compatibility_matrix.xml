@@ -633,6 +633,18 @@
         <version>1.0-1</version>
         <interface>
             <name>IMlipayService</name>
+        <name>com.fingerprints.extension</name>
+        <version>2.0</version>
+        <interface>
+            <name>IFingerprintEngineering</name>
+            <instance>default</instance>
+        </interface>
+        <interface>
+            <name>IFingerprintNavigation</name>
+            <instance>default</instance>
+        </interface>
+        <interface>
+            <name>IFingerprintSensorTest</name>
             <instance>default</instance>
         </interface>
     </hal>

@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "ApertureOverlayLavender",
+    theme: "ApertureOverlayLavender",
+    product_specific: true,
+}
